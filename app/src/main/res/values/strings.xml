@@ -1,3 +1,4 @@
 <resources>
-    <string name="app_name">learn-viewpager2-with-recyclerview-adapter</string>
+    <string name="app_name">Learn ViewPager2</string>
+    <string name="text_item_button">change orientation</string>
 </resources>
